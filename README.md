@@ -123,7 +123,6 @@ A fitted model can be saved with `joblib.dump(model, path)` and reloaded with `j
 
 ## Citation
 
-If you use this code, please cite:
 
 ```bibtex
 @inproceedings{wang2026trace,
